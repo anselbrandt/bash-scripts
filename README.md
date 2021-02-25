@@ -1,6 +1,8 @@
 # bash-scripts
 
-### Execute Scala scripts leaving off file extension, eg `s script` will run `scala script.scala`
+### Execute Scala scripts leaving off file extension
+
+E.g. `s script` will run `scala script.scala`. Any args will also be passed.
 
 `s`
 ```
